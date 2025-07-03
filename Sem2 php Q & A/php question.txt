@@ -1,0 +1,41 @@
+Programs on all the topics will come 
+
+UNIT 1
+What do you mean by client side and server side scripting. 
+What are variable how do you use variales in php .
+Explain the different data types in php.
+Explain for and while  and do-while loops in PHP?
+Explain the break and continue statementand exit function in PHP
+Explain the if-else statement in PHP.
+Explain the switch-case statement in PHP.
+Explain the different operators in PHP.
+
+
+UNIT 2
+What are the methods and arguments for accesing HTML information into php.
+....Explain the string function
+What are arrays?  Explain different ways of using arrays in php.
+....How arrays can be created and printed and accessed in PHP.
+Explain the following inspecting function of arrays.
+How will you delete elements from array?
+Explain the function of array
+Explain the different mathematical functions in PHP.
+What are the different installation related problems which can occur in PHP?
+What are the different resending problems which can occur in PHP?
+What are the different parse errors which can occur in PHP?
+What are the function problems which can occur in PHP?
+
+
+Unit 3
+What are cookies? Give its advantages and disadvantages.
+How will you create, use and delete cookies?
+What are the different alternatives used instead of sessions? Give their advantages and disadvantages.
+What are the functions used for creating, using and deleting sessions? Explain. 
+How email can be sent using php?
+Explain the function for fetching data
+Explain the function to connect to mysql and make a query and select the database.
+How will you use regular expression in php?
+Explain POSIX style Regular expression.
+Explain perl compatible regular Expressions.
+How will you store the values of database in forms? Explain with example.
+Explain the mail function with the help of examples.

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Indian Currency Transaction Calculator</title>
+</head>
+<script>
+        function calculateFinalBalance() {
+            // Get user inputs
+            var initialBalance = parseFloat(document.getElementById("initialBalance").value);
+            var amount = parseFloat(document.getElementById("amount").value);
+            var transactionType = document.getElementById("transactionType").value;
+
+            // Check transaction type and apply interest
+            if (transactionType === "deposit") {
+                // For deposits, add the amount to the initial balance
+                initialBalance += amount;
+            } else if (transactionType === "withdraw") {
+                // For withdrawals, subtract the amount from the initial balance
+                initialBalance -= amount;
+            }
+
+            // Calculate interest (10%)
+            var interest = initialBalance * 0.1;
+
+            // Calculate final balance
+            var finalBalance = initialBalance + interest;
+
+            // Display the final balance to the user
+            document.getElementById("finalBalance").textContent = finalBalance.toFixed(2);
+        }
+    </script>
+<body>
+    <h1>Transaction Calculator</h1>
+    <form id="transactionForm">
+        <label for="initialBalance">Initial Balance (INR):</label>
+        <input type="number" id="initialBalance" required><br>
+
+        <label for="amount">Amount (INR):</label>
+        <input type="number" id="amount" required><br>
+
+        <label for="transactionType">Transaction Type:</label>
+        <select id="transactionType" required>
+            <option value="deposit">Deposit</option>
+            <option value="withdraw">Withdraw</option>
+        </select><br>
+
+        <input type="button" value="Calculate" onclick="calculateFinalBalance()">
+    </form>
+
+    <h2>Final Balance: <span id="finalBalance"></span> INR</h2>
+
+    
+</body>
+</html>

@@ -1,0 +1,77 @@
+<html>
+<head>
+<style type="text/css">
+.table
+{
+    border-collapse:collapse; 
+    width:100%;
+    color:black;
+    font-size:250%;
+    text-align:center
+}
+.th
+{
+    background-color:rgb(150, 150, 201)
+}
+</style>
+</head>
+<body>
+<h1 align="center" style="color:green">WELCOME TO VIGNAHARTA SHOP</h1>
+     <table >
+       <tr valign="top">
+         <td>
+           <form method="get" action="Detail.html">
+             <input type="submit" style="float:left;background-color:white;font-size:200%;color:blue;text-decoration:underline;height:50px;width:300px" value="My Details" >
+           </form>
+         </td>
+         <td> 
+           <form method="get" action="homepage.html">
+              <input type="submit" style="margin-left:0px;background-color:white;font-size:200%;color:blue;text-decoration:underline;height:50px;width:300px" value="HOMEPAGE" >  
+           </form>
+         </td>
+         <td>
+        <form method="get" action="cart2.php">
+              <input type="submit" style="margin-left:0px;background-color:light-grey;font-size:200%;color:blue;text-decoration:underline;height:50px;width:300px" value="SHOPPING CART"> 
+            </form>
+         </td>
+         <td> 
+           <form method="get" action="order.html">
+              <input type="submit" style="margin-left:0px;background-color:white;font-size:200%;color:blue;text-decoration:underline;height:50px;width:300px" value="ORDERS"> 
+            </form>
+         </td>
+         <td>
+           <form method="get" action="feedback.html">
+              <input type="submit" style="margin-left:0px;background-color:white;font-size:200%;color:blue;text-decoration:underline;height:50px;width:280px" value="FEEDBACK"> 
+            </form>
+         </td>
+       </tr>
+      </table>
+
+
+
+<?php
+
+$kg=$_GET['t1'];
+$price=$kg*349;
+<form get="method">
+<table class="table" >
+<tr class="th">
+<th>Prodcut</th>
+<th> Price</th>
+<th> Quantity</th>
+<th> Total Rupees </th>
+</tr>
+<tr>
+<td>Motichur Laddu</td>
+<td>349.00</td>
+<td>echo "$kg"</td>
+<td>echo "$price"</td>
+</tr>
+</table>
+
+</form>
+echo $kg;
+echo $price;
+?>
+</body>
+</html>

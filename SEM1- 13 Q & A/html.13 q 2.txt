@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Number Tables</title>
+</head>
+<script>
+        function generateTables() {
+            var startNumber = parseInt(document.getElementById("startNumber").value);
+            var endNumber = parseInt(document.getElementById("endNumber").value);
+            var tablesContainer = document.getElementById("tablesContainer");
+
+            if (!isNaN(startNumber) && !isNaN(endNumber)) {
+                // Clear previous tables
+                tablesContainer.innerHTML = "";
+
+                for (var i = startNumber; i <= endNumber; i++) {
+                    var table = document.createElement("table");
+                    table.innerHTML = "<caption>Table of " +  i + "</caption>";
+
+                    for (var j = 1; j <= 10; j++) {
+                        var row = table.insertRow();
+                        var cell1 = row.insertCell(0);
+                        var cell2 = row.insertCell(1);
+                        cell1.innerHTML = i + " x " + j+"=";
+                        cell2.innerHTML = i * j;
+                    }
+
+                    tablesContainer.appendChild(table);
+                }
+            } else {
+                alert("Please enter valid numbers.");
+            }
+        }
+    </script>
+<body>
+    <h1>Number Tables</h1>
+    <form id="numberForm">
+        <label for="startNumber">Start Number:</label>
+        <input type="number" id="startNumber" required><br>
+
+        <label for="endNumber">End Number:</label>
+        <input type="number" id="endNumber" required><br>
+
+        <input type="button" value="Generate Tables" onclick="generateTables()">
+    </form>
+
+    <h2>Tables:</h2>
+    <div id="tablesContainer"></div>
+
+    
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JP6</title>
+<style>
+h1,h2{color:white}
+</style>
+<script language="javascript">
+function JP6()
+{
+  var x;
+  x=f1.s1.value;
+  if(x==1)
+  {
+    document.write("<hr><h3>Fees: 2000</h3><h3>Timing: 8'o clock</h3><br><hr>");
+  }
+  if(x==2)
+  {
+    document.write("<hr><h3>Fees: 3000</h3><h3>Timing: 9'o clock</h3><br><hr>");
+  }
+  if(x==3)
+  {
+    document.write("<hr><h3>Fees: 4000</h3><h3>Timing: 10'o clock</h3><br><hr>");
+  }
+  
+}
+</script>
+</head>
+<body align="center" bgcolor="black">
+<form name="f1" align="center">
+<hr>
+<h2>SELECT ANY ONE SUBJECT</h2>
+<select name="s1">
+<option>Subject</option>
+<option name="o1" value="1"><h4>HISTORY</h4></option>
+<option name="o2" value="2"><h4>GEOGRAPHY</h4></option>
+<option name="o3" value="3"><h4>ECONOMICS</h4></option>
+</select>
+<hr>
+<br>
+<input type="button" value="SUBMIT" onClick="JP6()">
+<br>
+<hr>
+</form>
+</body>
+</html>

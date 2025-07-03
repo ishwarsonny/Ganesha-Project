@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JP8</title>
+<style>
+</style>
+</head>
+<body>
+<script language="javascript">
+var i,j,k;
+for(i=1;i<=100;i++)
+{
+  k=0;
+  for(j=2;j<=i/2;j++)
+  {
+    if(i%j==0)
+    {
+      k++;
+    }
+  }
+  if(k==0 && i!=1)
+  {
+    document.write("<br><h2></h2>" +i);
+  }
+}
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+<DOCTYPE! html>
+<html>
+ <head>
+  <title>Ganesh Mohatsav</title>
+   <style type="text/css">
+    .imgal
+    {
+         float:right;
+         background-color: green;
+    }
+    .heading
+    {
+         color: yellow;
+         font-style: italic;
+         text-decoration: underline;
+    }
+   .para
+   {
+   color: white;
+   }
+   </style>
+ </head>
+ <body background="https://4.bp.blogspot.com/-5lBlAiG7OGo/V5uZokBW91I/AAAAAAAAFRA/_z6ELQaznKg4CLnjDZ5k92vf6DXskh8WgCLcB/s1600/Lord%2BGanesha%2B3D%2BImages.jpg">
+   <h1 align="center" class="heading" ><B><marquee>OM GANPATI NAMMA</marquee></B></h1><br>
+   <img class="imgal" border="10" src="https://cdn.pixabay.com/photo/2018/02/03/23/17/ganesha-3128714_640.png",
+   width="400px",height="650px",alt="Picture of ganesha"></img>
+
+   <p class="para">
+   <font size="5">
+   <B>Ganesh Chaturthi</B> (ISO: Gaṇeśa Caturthī), also known as <B>Vinayak Chaturthi</B> (Vināyaka Caturthī) or <B>Ganeshotsav</B> (Gaṇeśōtsava), is a Hindu festival that tributes Hindu deity Ganesha.[3] The festival is marked with the installation of Ganesha's clay murtis (devotional representations of a deity) privately in homes and publicly on elaborate pandals (temporary stages). Observances include chanting of Vedic hymns and Hindu texts, such as prayers and vrata (fasting).[3] Offerings and prasada from the daily prayers, that are distributed from the pandal to the community, include sweets such as modak as it is believed to be a favourite of Lord Ganesha.[4][5] The festival ends on the tenth day after start, when the Murti is carried in a public procession with music and group chanting, then immersed in a nearby body of water such as a river or sea, called visarjana on the day of Ananta Chaturdashi. In Mumbai alone, around 150,000 Murtis are immersed annually.[6] Thereafter the clay Murti dissolves and Ganesha is believed to return to his celestial abode.[3][7]<br>
+The festival celebrates Ganesha as the God of New Beginnings and the Remover of Obstacles as well as the god of wisdom and intelligence[8][9] and is observed throughout the Indian subcontinent by Hindus, especially in the states such as Maharashtra, Madhya Pradesh, Karnataka, Kerala, Odisha, Telangana, Andhra Pradesh, Tamil Nadu and Goa, as well as Nepal.[3][10] Ganesh Chaturthi is also observed by the Hindu diaspora elsewhere such as in Australia, New Zealand, Canada, Singapore, Malaysia, Trinidad and Tobago, Guyana, Suriname, other parts of the Caribbean, Fiji, Mauritius, South Africa,[11] the United States, and Europe. In the Gregorian calendar, Ganesh Chaturthi falls between 22 August and 20 September every year.[7][12][13]
+   </p><br>
+   <h3 style="color:yellow"><B>History: Becoming a Popular Mass Festival</B></h3>
+  
+   <img src="https://tse1.mm.bing.net/th?id=OIP.9BOqnTmf-PqH27L77Tjf8gHaFe&pid=Api&P=0&h=180" alt="historic image of Ganesha" width="500px" height="300px" style="float:left">
+   
+<p class="para">  
+Although Ganesh Chaturthi is celebrated traditionally in most states of India, the fervour with which it is celebrated in the state of Maharashtra is unparalleled. Interestingly, it was not a significant part of Maharashtra’s tradition until its advent here during the Maratha reign. In fact, Ganesh Chaturthi was initially just a homely affair. It was Bal Gangadhar Tilak (1856–1920), a noted leader of the Indian Independence Movement, who was instrumental in converting Lord Ganesh into a powerful cultural and religious symbol of unity for the Maharashtrian people in an attempt to resist the British rule. Though the British regime clamped down very heavily on political opposition and rebellion, they did not interfere with religious observances. Hence, the Ganesh festival provided a space to show national unity. In 1893, Tilak reinvented the Ganesh Chaturthi, converting it from an annual family celebration to a full-fledged public event.
+   </p><br>
+<!--<img src="https://tse4.mm.bing.net/th?id=OIP.FMHTAvU0KFjXGVLQCunNqwHaEo&pid=Api&P=0&h=180" alt="historic image of Ganesha" width="1000px" height="500px" style="float:middle"></img> -->
+
+<h3 style="color:yellow"><B>Most Famous Ganpati Pandaals in Mumbai:</B></h3>
+<h4 style="color:Blue"><B>1)Lalbaughcha Raja</B></h4>
+<img style="float:left" src="https://mumbai7.com/ezoimgfmt/i0.wp.com/mumbai7.com/wp-content/uploads/2023/09/Lalbaugcha-Raja.jpg?w=924&ssl=1&ezimgfmt=ng:webp/ngcb1" alt="img of Lalbaughcha raja" width="700" height="400"></img>
+
+<p class="para">
+Lalbaugcha Raja, founded in 1934, is a legendary Ganpati pandal in Mumbai. With a remarkable historical significance, it began as a modest initiative and has now become a symbol of unity. Drawing an astounding 1.5 million visitors daily during the festival, it boasts a massive idol believed to fulfill devotees’ wishes. The pandal’s grandeur, intricate decorations, and heartwarming stories of fulfilled wishes make it a must-visit.<br><br>
+<B>Location:</B> Lalbaug, Parel, Mumbai<br><br>
+<B>Historical Significance:</B> Established in 1934, Lalbaugcha Raja has a rich history of granting devotees’ wishes.<br><br>
+<B>Visitor Count:</B>An astounding 1.5 million people visit daily during the festival.<br><br>
+<B>Specialty:</B>The Huge idol and intricate decorations captivate visitors. It is believed that the wishes of devotees who visit here are fulfilled. This is the most famous Mumbai Ganpati Pandals.<br><br>
+
+<p class="para">
+Please click on the "MORE" button to know more info>></p>
+<form method="GET" action="more.htm">
+<input type="submit" value="MORE">
+</form>
+
+  </font>
+ </body>
+</html>

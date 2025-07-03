@@ -1,0 +1,18 @@
+<html>
+<head>
+<titlePuchasing page</title>
+</head>
+<body bgcolor="yellow">
+<form >
+<h1><b>Welcome to Vignaharta Shop</b></h1>
+<p Fill the following Details Correc
+<input type="text" placeholder="Username" name="t1"><br><br>
+<input type="password" placeholder="Password" name="p1"><br><br>
+<input type="submit" value="LOGIN"><br><br>
+
+<p>Don't have an account?
+<a href="register.htm">Register here</a></p>
+
+</form>
+</body>
+</html>

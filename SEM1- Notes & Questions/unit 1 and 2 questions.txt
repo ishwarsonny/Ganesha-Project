@@ -1,0 +1,33 @@
+Unit 1
+1. Explain the working of email.
+2. Write short note on FTP.
+3. Explain the working of telnet
+4. What do mean by IP addresses. Explain in detail.
+5. Write short note on DNS and URL
+6. What do you mean by ecommerce? Give its advantages and types
+7. What is video conferencing give its uses and benefits?
+8. Explain web servers and proxy servers
+9. Explain the features of browsers
+10. Give the basic formatting tags in html.
+11. Explain the different types of lists and tags used for it
+12. What is linking. Explain internal and external linking. Explain tag used for it.
+13. What is style sheet. Explain different type of styles
+14. Explain the image tag with its attributes
+Unit 2
+1. How will you create a text based navigation bar? Explain with example.
+2. How will you create a Graphical navigation bar? Explain with example.
+3. Explain the use of <nav> tag with the help of example.
+4. What is image-map? Explain client side and server side image mapping.
+5. Explain with an example client side image mapping.
+6. How will you redirect HTML page to another URL.
+7. Explain the different HTML 5 semantic tags.
+8. What is the use of div tag explain with the help of example
+9. What are the different styles used for formatting divisions
+10. Explain the different attributes of Table tag.
+11. Explain the tags used for merging rows and columns in a table.
+12. What is the use of cell spacing and cell padding in table?
+13. Explain the attributes of form tag.
+14. Explain the input tag and its attributes in detail.
+15. Explain the different sub tags of form.
+16. Explain the tags for adding audio and video to a HTML 5 page.
+17. How will you do formatting for a table like border, background, alignment? Explain.

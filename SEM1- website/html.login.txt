@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>login page</title>
+</head>
+<body bgcolor="sky-blue">
+<h1><b>LOGIN HERE</b></h1>
+<input type="text" placeholder="Username" name="t1"><br><br>
+<input type="password" placeholder="Password" name="p1"><br><br>
+<input type="submit" value="LOGIN"><br><br>
+
+<p>DOn't have an account?
+<a href="register.htm">Register here</a></p>
+
+</body>
+</html>

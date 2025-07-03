@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JP8</title>
+<style>
+</style>
+<script language="javascript">
+function maxnum()
+{
+  var a,b,c;
+  a=f1.n1.value;
+  b=f1.n2.value;
+  c=f1.n3.value;
+  if(a>b && a>c)
+  {
+    document.write("<h2>A is Largest</h2>");
+  }
+  if(b>a && b>c)
+  {
+    document.write("<h2>B is Largest</h2>");
+  }
+  else
+  {
+    document.write("<h2>C is Largest</h2>");
+  }
+  
+}
+</script>
+</head>
+<body align="center">
+<form name="f1">
+<hr><hr>
+<h2>ENTER NUMBER A: </h2><input type="number" name="n1"><br>
+<hr>
+<h2>ENTER NUMBER B: </h2><input type="number" name="n2"><br>
+<hr>
+<h2>ENTER NUMBER C: </h2><input type="number" name="n3"><br>
+<hr>
+<input type="button" value="PROCEED" onClick="maxnum()">
+<hr>
+</form>
+</body>
+</html>

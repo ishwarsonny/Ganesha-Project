@@ -1,0 +1,35 @@
+unit 3
+
+programs on all concepts of java scripts
+
+
+
+1.       What do you mean by client-side and server-side scripting?
+
+2.       Explain for loop in JavaScript.
+
+3.       Explain while loop in JavaScript.
+
+4.       Explain the break and continue statement in JavaScript.
+
+5.       Explain the if-else statement in JavaScript.
+
+6.       Explain the switch-case statement in JavaScript.
+
+7.        Explain the different operators in JavaScript.
+
+8.       Explain the use of do-while in JavaScript.
+
+9.       Explain the different functions of Math object.
+
+10.   Explain the different functions of Date object.
+
+11.   What are functions? How will you define and call a function in JavaScript?
+
+12.   What are the different events and event handlers in JavaScript?
+
+13.   Explain the different methods of Array in Java Script
+
+14.   How regular Expressions are used in JavaScript. Explain?
+
+15.   Explain the methods of string objects.

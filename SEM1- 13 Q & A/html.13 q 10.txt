@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JP10</title>
+<style>
+</style>
+</head>
+<body>
+<script language="javascript">
+var s,l,le;
+le=1;
+s=prompt("Enter your Sentence: ");
+for(l=0;l<s.length;l++)
+{
+  if(s[l]==" ")
+  {
+    le++
+  }
+}
+document.write(le);
+</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+ <html>
+ <head>
+  <title>more</title>
+ 
+
+ </head>
+ <body >
+ <h1 style="text-decoration:underline;color:blue;background-color:yellow" align="center"><b>Best Sweets at Lalbaugh Mandal </b></h1><br>
+ <h2><b>Motichur Laddoo:</b></h2>
+ <img src="https://i.pinimg.com/originals/db/9e/ad/db9eadc1b692c37feb800325aee51a91.jpg" alt="Image of Laddoo" width="700" height="500"><br>
+ <p>
+<font size="10">
+<b>SHOP NAME:</b>Vignaharta Sweet shop<br><br>
+<b>ADDRESS:</b>Shp.No-34,Exit-Gate Raod,Lalbaugh<br><br>
+<b>RATE:</b>500gms: 350Rs <br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 1kg&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp: 600Rs<br><br>
+<a href="register.htm">Click here to Register</a>
+</font><br><br>
+
+<b>____________________________________________________________________________________________________________________________________________________________________________________________</b>
+</p>
+
+<form method="GET" action="websiteofganesha.html">
+<input type="submit" value="HOME">
+</form>
+</body>
+</html>
